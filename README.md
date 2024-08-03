@@ -1,6 +1,6 @@
-# React + Vite
+# Abdullah , Belal and Yousuf 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+We are create Neuxs UI React + Tailwind
 
 Currently, two official plugins are available:
 
